@@ -1,5 +1,5 @@
 A Discord Game Spoofer for MacOS. Very useful for spoofing quests or trolling.<br>
-run main.py<br><br>
+run main.py<br>
 
 https://discord.gg/urJGFzdA3s<br>
 
